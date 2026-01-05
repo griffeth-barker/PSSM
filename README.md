@@ -1,4 +1,4 @@
-![](/images/logo-pssm.png)  
+![](/images/pssm-gear-icon-x128.png)  
   
 # PSSM
 Another service manager for Microsoft Windows.
@@ -8,6 +8,11 @@ Another service manager for Microsoft Windows.
 
 ## Getting Started
 You can download the latest version from the [releases page](https://github.com/griffeth-barker/PSSM/releases).
+
+The latest release SHA256 hash is: 
+```sha256-hash
+33791DA9885254D80E1467AF43C29FF626F0B9AE63207F58C2728DACE994F696
+```
 
 ## Features
   - Listing services
