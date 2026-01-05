@@ -10,17 +10,17 @@ There is about a 5 second delay upon launch while the initial view builds. This 
 ### Main Window
 ![](/images/screenshot-main-window.png)
 The main window features a grid view of the services on the computer. This view is scrollable; columns may be re-arranged.
-
-Grid view columns:
-    - **Status**: The current state of the service (e.g. "Started", "Stopped", etc.).
-    - **Name**:  The name of the service (e.g. "testsvc").
-    - **Display Name**: The friendly name of the service (e.g. "Test Service").
-    - **Startup**: The startup mode of the service (e.g. "Automatic", "Delayed Start", "Manual", etc.)
-    - **Log On As**: The username of the account that runs the service (e.g. "LocalSystem","DOMAIN\username", "localUsername").
-    - **Uptime**: The length of time that the service has been up since its last start.
-    - **Quoted**: Whether the service exectuable's filesystem path is hardened by being enclosed in quotation marks.
-    - **Permissive**: Whether the service executable's filesystem permissions provide write access to the "Everyone" or "Users" groups.
-
+  
+Grid view columns:  
+    - **Status**: The current state of the service (e.g. "Started", "Stopped", etc.).  
+    - **Name**:  The name of the service (e.g. "testsvc").  
+    - **Display Name**: The friendly name of the service (e.g. "Test Service").  
+    - **Startup**: The startup mode of the service (e.g. "Automatic", "Delayed Start", "Manual", etc.).  
+    - **Log On As**: The username of the account that runs the service (e.g. "LocalSystem","DOMAIN\username", "localUsername").  
+    - **Uptime**: The length of time that the service has been up since its last start.  
+    - **Quoted**: Whether the service exectuable's filesystem path is hardened by being enclosed in quotation marks.  
+    - **Permissive**: Whether the service executable's filesystem permissions provide write access to the "Everyone" or "Users" groups.  
+  
 ![](/images/screenshot-main-window-context-menu.png)
 Any service in the grid view may be right-clicked to open the context menu which offers quick access to certain features such as starting, stopping, restarting, along with shortcuts to open the service executable's parent directory in File Explorer or it's key in the registry.
 
