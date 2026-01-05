@@ -18,14 +18,14 @@
 
 $params = @{
     inputFile    = '.\src\pssm.ps1'
-    outputFile   = '.\releases\pssm-0.1.0.exe'
+    outputFile   = '.\releases\pssm-0.1.1.exe'
     STA          = $true
     iconFile     = '.\images\pssm-gear-icon.ico'
     noConsole    = $true
     title        = 'PowerShell Service Manager'
     description  = 'Another service manager for Microsoft Windows'
     company      = 'griff.systems'
-    version      = '0.1.0'
+    version      = '0.1.1'
     requireAdmin = $true
     configFile   = $false
 }
