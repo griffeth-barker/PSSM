@@ -14,6 +14,10 @@ The latest release SHA256 hash is:
 33791DA9885254D80E1467AF43C29FF626F0B9AE63207F58C2728DACE994F696
 ```
 
+## Screenshot
+![](/images/screenshot-main-window.png)  
+  
+Additional screenshots can be found in the [User Guide](/docs/userguide.md).
 ## Features
   - Listing services
   - Exporting list of services as CSV file or JSON string

@@ -11,8 +11,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add feature to harden service executable permissions
 - Add feature to connect to remote computers
 - Fix startup performance
+- Pester tests
 
-## [0.1.0] - 2026-01-04
+## [0.1.1] - 2026-01-04
+This is largely a cosmetic release, however the application icon was changed which resulted in a re-wrap of the application and a new SHA256 hash as shown below.
+
+### Added
+
+- Additional documentation
+  - [Development](/docs/development.md)
+  - [Features](/docs/features.md)
+  - [User Guide](/docs/userguide.md)
+- New application icon
+- Screenshots
+
+SHA256: `0EA70718B7AC7A056454FD136E2E67BFD0A72EF16F1876C1A66883C45EEF25B8`
+
+## [0.1.0] - 2026-01-03
 
 ### Added
 
@@ -33,4 +48,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 SHA256: `33791DA9885254D80E1467AF43C29FF626F0B9AE63207F58C2728DACE994F696`
 
 [unreleased]:
-[0.1.0]: 
+[0.1.1]: https://github.com/griffeth-barker/PSSM/tree/v0.1.1
+[0.1.0]: https://github.com/griffeth-barker/PSSM/tree/v0.1.0
